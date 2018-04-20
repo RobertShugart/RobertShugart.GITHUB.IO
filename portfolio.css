@@ -1,0 +1,71 @@
+body, html{
+	background-image: url("img/dust_scratches.png");
+	height: 100%
+}
+
+h2{
+	text-align: center;
+}
+
+.wrapper {
+    margin-left:auto;
+    margin-right:auto;
+    height: 100%
+}
+
+#recentWork{
+	text-align: center;
+	margin: 0 auto;
+}
+
+#intro{
+	background: url("img/Information-Technology6.jpg") no-repeat center center / cover;	
+	display: block;
+	height: 90%;
+	text-align: center;
+	padding-top: 20%;
+}
+
+#intro-heading{
+	display: table;
+	vertical-align: middle;
+	padding: 2em 0;
+}
+
+#clear{
+	clear: both;
+}
+
+
+#about{
+	padding: 2em;
+/*	height: 20%;*/
+	text-align: center;
+}
+
+#tech img{
+	max-height: 80px;
+    max-width: 80px;
+}
+
+.caption{
+	display: block;
+}
+
+#tech {
+	 text-align: center;
+	 height: 30%;
+	 padding: 2em;
+
+}
+
+#contact{
+	background-color: black;
+	background-image: url(img/comTech.png);
+	height: 30%;
+}
+
+#hire{
+	padding-top: 2%;
+	padding-left: 22%;
+}
