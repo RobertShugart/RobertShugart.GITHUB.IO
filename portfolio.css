@@ -7,10 +7,21 @@ h2{
 	text-align: center;
 }
 
+a{
+	color: white;
+	text-decoration: underline;
+}
+
 .wrapper {
     margin-left:auto;
     margin-right:auto;
     height: 100%
+}
+
+.navbar {
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
 }
 
 #recentWork{
@@ -59,13 +70,24 @@ h2{
 
 }
 
+@media (orientation:portrait){
+	#contact{
+		background-color: black;
+		background-image: url(img/comTech.png);
+		height: 50%;
+
+	}	
+	}
 #contact{
 	background-color: black;
 	background-image: url(img/comTech.png);
 	height: 30%;
+	color: white;
+
 }
 
 #hire{
 	padding-top: 2%;
 	padding-left: 22%;
+
 }
