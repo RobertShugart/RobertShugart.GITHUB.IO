@@ -12,6 +12,10 @@ a{
 	text-decoration: underline;
 }
 
+.navbar{
+	background-color: #aaaaaa;
+}
+
 .wrapper {
     margin-left:auto;
     margin-right:auto;
@@ -22,11 +26,6 @@ a{
    background-color: transparent;
    background: transparent;
    border-color: transparent;
-}
-
-#recentWork{
-	text-align: center;
-	margin: 0 auto;
 }
 
 #intro{
@@ -42,6 +41,16 @@ a{
 	vertical-align: middle;
 	padding: 2em 0;
 }
+
+#intro a{
+	color: black;
+}
+
+#recentWork{
+	text-align: center;
+	margin: 0 auto;
+}
+
 
 #clear{
 	clear: both;
