@@ -95,3 +95,11 @@ a{
 	padding-left: 22%;
 
 }
+
+#portfolio{
+	img:hover{color:blue};
+}
+
+#newSection{
+	text-decoration: underline;
+}
